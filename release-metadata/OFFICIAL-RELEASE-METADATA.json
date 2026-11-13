@@ -1,0 +1,28 @@
+{
+  "source": "https://evolution-x.org/device/raphael",
+  "checked_date": "2026-11-13",
+  "codename": "raphael",
+  "release": {
+    "maintainer": "Joey",
+    "android_version": 17,
+    "latest_evo_version": "12.4",
+    "up_to_date": true,
+    "currently_maintained": "yes",
+    "type": "gapps",
+    "FileInformation": {
+      "timestamp": 1794512994,
+      "md5": "ac04ee33c7558c7a179dab6512b77445",
+      "sha256": "d624d942ec8c4bde1fa46fc689cd78e0735c8604f084bc0acd773d5c4b839178",
+      "size": 3812053104,
+      "version": "12.4"
+    },
+    "initial_images": "boot, dtbo",
+    "download_url": "https://cdn.evolution-x.org/raphael/17/EvolutionX-17.0-20261112-raphael-12.4-Official.zip/download",
+    "paypal": "https://linktr.ee/joeyhuab",
+    "forum": "https://xdaforums.com/t/rom-17-raphael-official-evolution-x-07-22-26.4710167/",
+    "firmware": "https://xmfirmwareupdater.com/firmware/raphael/stable/V12.5.2.0.RFKMIXM/",
+    "github": "joeyhuab",
+    "ota_url": "https://raw.githubusercontent.com/Evolution-X/OTA/refs/heads/cnb/builds/raphael.json",
+    "changelog_url": "https://raw.githubusercontent.com/Evolution-X/OTA/refs/heads/cnb/changelogs/raphael.txt"
+  }
+}
